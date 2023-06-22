@@ -1,6 +1,6 @@
 # projeto-css-noite-2023
 
-Fazer o fork do repositório projeto-css-tarde-2023, clonar o repositório para sua máquina, dentro da pasta do repositório já clonado, ****criar uma pasta com o seu nome ou da dupla****, e dentro dessa pasta inserir os arquivos do projeto.
+Fazer o fork do repositório projeto-css-noite-2023, clonar o repositório para sua máquina, dentro da pasta do repositório já clonado, ****criar uma pasta com o seu nome ou da dupla****, e dentro dessa pasta inserir os arquivos do projeto.
 
 Fazer uma página de portfólio pessoal (verdadeiro), com dados reais, dividindo entre os elementos corretos a sua história, nome, idade, informações de escolaridade ou profissionais, se tem algum projeto que ja participou, projetos futuros, enfim informações referentes a você para a criação do portfólio.
 
